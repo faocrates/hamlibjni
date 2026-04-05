@@ -18,6 +18,8 @@ gcc -fPIC -I${JAVA_HOME}/include -I${JAVA_HOME}/include/linux -I${HAMLIB_HOME}/i
 ## License
 
 ```
+ *   Copyright (c) 2025-2026 by Dr Christos Bohoris
+ *
  *   This library is free software; you can redistribute it and/or
  *   modify it under the terms of the GNU Lesser General Public
  *   License as published by the Free Software Foundation; either
